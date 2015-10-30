@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "rollup -c -i src/index.js -o dist/index.js"
+  },
+  "devDependencies": {
+    "rollup": "^0.20.2"
+  }
+}
